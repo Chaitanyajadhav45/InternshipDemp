@@ -7,6 +7,8 @@ public class Calculator{
 
     public static int sub(int num1,int num2)
     {
+        System.out.println("hello");
         return num1-num2;
+        
     } 
 }
